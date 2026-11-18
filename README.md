@@ -1,3 +1,1 @@
-- 🧑‍💻I am currently working as a L2 Cyber Security Analyst in Privia Security.
-- 🌳 Interested in CTI, Malware Analysis, Network Management, Linux and Python.
-- 📧 You can reach me via / boravedat1@gmail.com
+🧑‍💻
